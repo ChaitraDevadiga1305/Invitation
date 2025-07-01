@@ -1,5 +1,6 @@
 .highlight{
   font-style: italic;
-  color:goldenrod
+  color:goldenrod;
+  background-image: linear-gradient(to bottom right, red, yellow);
 }
 
