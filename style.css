@@ -6,6 +6,6 @@
 
 .grad{
    background-color: red;
-   background-image: linear-gradient(to bottom right, crimson, chocolate, crimson);
+   background-image: linear-gradient(to bottom left, maroon,red,maroon);
 }
 
