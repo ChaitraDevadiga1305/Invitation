@@ -7,8 +7,9 @@
 
 .grad{
   
-  background-image: url("assets/plainbg.jpg");
-  
+  background-image: url("assets/newbg.jpg");
+  backgroung-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: auto;
   
    
