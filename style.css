@@ -1,16 +1,16 @@
 .highlight{
   font-style: italic;
   color:goldenrod;
-  opacity: 1.0;
+  
  
 }
 
 .grad{
   
-  background-image: url("assets/housebg.jpg");
+  background-image: url("assets/plainbg.jpg");
   background-repeat: no-repeat;
   background-size: auto;
-  opacity: 0.4;
+  
    
 }
 
