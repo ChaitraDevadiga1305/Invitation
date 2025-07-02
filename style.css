@@ -11,7 +11,13 @@
   backgroung-repeat: no-repeat;
   background-attachment: fixed;
   background-size: auto;
-  
    
+}
+
+.trans{
+  background-image: url("assets/transparentbg.jpg");
+  backgroung-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto;
 }
 
