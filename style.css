@@ -8,7 +8,7 @@
 .grad{
   
   background-image: url("assets/lotusbg.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   /*background-attachment: fixed;*/
   background-size:contain;
   /*background-size: 300px 600px ;*/
