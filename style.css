@@ -10,7 +10,7 @@
   background-image: url("assets/lotusbg.jpg");
   background-repeat: no-repeat;
   /*background-attachment: fixed;*/
-  background-size: auto;
+  background-size: contain;
   background-position: center top;
  
    
