@@ -7,11 +7,11 @@
 
 .grad{
   
-  background-image: url("assets/lotusbg.jpg");
+  background-image: url("assets/lotusbg.png");
   background-repeat: no-repeat;
   /*background-attachment: fixed;*/
   /*background-size:cover;*/
-  background-size: 300px 600px ;
+  /*background-size: 300px 600px ;*/
   background-position: center center;
  
    
